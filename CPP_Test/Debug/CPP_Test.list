@@ -1384,7 +1384,7 @@ int main(void)
 	printf("Test from c++ and printf\n\r");
  800105e:	4806      	ldr	r0, [pc, #24]	; (8001078 <main+0x38>)
  8001060:	f01c f812 	bl	801d088 <iprintf>
-	std::cout << "Test from c++ and cout\n\r";
+	std::cout << "Test from C++ and cout\n\r";
  8001064:	4905      	ldr	r1, [pc, #20]	; (800107c <main+0x3c>)
  8001066:	4806      	ldr	r0, [pc, #24]	; (8001080 <main+0x40>)
  8001068:	f008 fb3a 	bl	80096e0 <_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc>
