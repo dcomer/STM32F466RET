@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+/.metadata/
+
+# EGit additions
+/Debug/
+/Release/
+/.settings/
+/.mxproject/
+
