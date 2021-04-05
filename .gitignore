@@ -1,3 +1,6 @@
+.DS_Store
+._.DS_Store
+
 # Prerequisites
 *.d
 
@@ -35,6 +38,6 @@
 # EGit additions
 /Debug/
 /Release/
-/.settings/
-/.mxproject/
+#/.settings/
+#/.mxproject/
 
